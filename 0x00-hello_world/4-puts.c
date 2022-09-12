@@ -1,4 +1,8 @@
 #include "stdio.h"
+/*
+ * learning c programming. 
+ * betty style.
+ */
 
 int main(void)
 {
